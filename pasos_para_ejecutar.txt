@@ -1,0 +1,3 @@
+- bison nombre_archivo.y
+- gcc nombre_archivo.tab.c -o archivo.c -lm
+- ./archivo.c
